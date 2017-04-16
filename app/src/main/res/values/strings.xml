@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Know Your Government</string>
+    <string name="about">info</string>
+
+    <string name="location" />
+    <string name="App_name">Know Your Government</string>
+    <string name="kyg">Know Your Governmnet</string>
+    <string name="nyg2">Know Your Government</string>
+    <string name="ver">Version 1.0</string>
+    <string name="val" />
+    <string name="nam" />
+    <string name="top_location" />
+    <string name="add">Address:</string>
+    <string name="website">Website:</string>
+    <string name="email">Email:</string>
+    <string name="phone">Phone:</string>
+    <string name="address">Address :</string>
+    <string name="phon">Phone :</string>
+    <string name="web">Website</string>
+    <string name="youtube">Youtube</string>
+    <string name="google">Google</string>
+    <string name="twitter">Twitter</string>
+    <string name="facebook">Facebook</string>
+    <string name="block1">Know Your Government</string>
+    <string name="block2"><![CDATA[© 2017, Ahsan Burney]]></string>
+</resources>
